@@ -23,6 +23,8 @@ gem 'bootstrap', '~> 4.0.0'
 gem 'devise'
 gem 'devise-i18n'
 
+gem "paperclip", "~> 5.2.1"
+
 gem 'jquery-rails'
 
 # Use CoffeeScript for .coffee assets and views
